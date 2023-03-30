@@ -1,4 +1,4 @@
-<h2 align="center">Ola eu sou Jhones Candido FOnseca (JhonesMartinezTV)! :speech_balloon:</h2>
+<h2 align="center">Ola eu sou Jhones Candido Fonseca (JhonesMartinezTV)! :speech_balloon:</h2>
 
 <p align="center">
   <a href="https://github.com/JhonesMartinezTV/github-readme-stats">
